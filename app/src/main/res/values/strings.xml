@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Screen Recorder</string>
+    <string name="label_permissions">Please enable Microphone and Storage permissions.</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+</resources>
